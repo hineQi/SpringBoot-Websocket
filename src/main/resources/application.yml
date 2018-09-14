@@ -1,0 +1,10 @@
+#Spring Boot配置
+
+server:
+  #端口
+  port: 13600
+  #IP
+  address: 172.16.3.15
+  sessionTimeout: 30
+  #服务名,"/"时用空字符串
+  contextPath:
